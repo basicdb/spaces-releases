@@ -1,0 +1,11 @@
+{
+  "version": "0.1.8",
+  "notes": "final update test",
+  "pub_date": "2026-01-26T17:48:31Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/basicdb/spaces-releases/releases/download/v0.1.8/Spaces.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbjVPSFdITDBMcllyVHpDTHVVMi9FU1U4cmNMU0VXNjE2T1BCeUhGVmo1bW1MSnNLbGJTUVhJcU5MZjdNNDl3cllDVEhmZnlmOGFRdXJ4QThReGJqd3NzUHZSN01COGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDQ5NzExCWZpbGU6U3BhY2VzLmFwcC50YXIuZ3oKR1VjV2xsSTdrVjh6bUpVckpEL0lZUG9Ha2dNY3pPSE9NRE9IQXZhdmF4Rm1vbTVLS0hYcVozOGxYNXJLQWgrS3ljMmJ1YUt0YVRLRENuNU5LakdyQ1E9PQo="
+    }
+  }
+}
