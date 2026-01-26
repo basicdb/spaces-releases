@@ -1,0 +1,11 @@
+{
+  "version": "0.1.4",
+  "notes": "Test release to verify auto-updater works from 0.1.3",
+  "pub_date": "2026-01-26T03:09:21Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/basicdb/spaces-releases/releases/download/v0.1.4/Spaces_0.1.4_aarch64.dmg",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZVYmpWUFNGZElUREJNY21SU2NXaFpaemhRVVVScU0wRTVlRGxyTDFWSmRtTnFRMFpLVGt0eGFDOU5kR2d5T1ROVVNXcDRiVmcyUlZKamIwVjRSa04xVEROS2RsbFdiM05MWTFwV1JrcDJaQ3N2WWk5V2RFOTZhVVpRVjFSUFUyZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU16azJPVFU1Q1dacGJHVTZVM0JoWTJWekxtRndjQzUwWVhJdVozb0tXbFJaVTAxWVQzSk9Na2hRVm01QmFrcGlMeThyY1ZReFkwRmFhbXgzYW1RMlVUZHNXbVlyVDNoeFNuTTRMMDEzYm5FMWRrTmljVXRqZG0xTWNYVk5lblUyTkVFNFVVeHlXbUp5ZDIxS09Fd3ZUWFYxUTJjOVBRbz0="
+    }
+  }
+}
