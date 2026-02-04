@@ -1,0 +1,11 @@
+{
+  "version": "0.1.13",
+  "notes": "openclaw",
+  "pub_date": "2026-02-04T00:59:47Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/basicdb/spaces-releases/releases/download/v0.1.13/Spaces.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbjVPSFdITDBMcmJwZ1FpS212QUJqNmRaY3g3aGJ3N1lxc0QxZ2F4ZlMxSmM2eUdKdGRzM3F0UUphU3g4ckw4Z281Wk8rU0l6N01tYkpmL3lFN3pDZHVCRExObTlvTkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTY2Nzg2CWZpbGU6U3BhY2VzLmFwcC50YXIuZ3oKMDJqVjhmQTBSNFl2aGVueld6OU9zOFVESEJxS1RKQWFMdVhzR1UvaVI5eXd6UGZQNnUrbWxUTTFCZ1k5VXBkb2pUVjc4aVNpNlZQcnR5ZWZsTTB6QUE9PQo="
+    }
+  }
+}
